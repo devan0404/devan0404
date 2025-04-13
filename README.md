@@ -34,7 +34,7 @@
 ---
 
 📫 **Reach me at**  
-- LinkedIn: [linkedin.com/in/devan-arya-s](#) 
+- LinkedIn: [linkedin.com/in/devan-arya-s](https://www.linkedin.com/in/devan-arya-s)  
 - Email: devanarya0405@gmail.com
 
 ---
