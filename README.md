@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devan Arya S</h1>
-<h3 align="center">Second-Year ECE Student at VVCE | Passionate about Coding, IoT Projects & Problem Solving</h3>
+<h3 align="center">Third-Year ECE Student at VVCE | Passionate about Coding, IoT Projects & Problem Solving</h3>
 
 ---
 
